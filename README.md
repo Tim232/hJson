@@ -2,6 +2,8 @@
 
 A package for handling json files
 
+`pip install py-hJson`
+
 Example : 
 ```python
 import hJson
